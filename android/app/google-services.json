@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243098941637",
+    "firebase_url": "https://mefbaze-8dee2.firebaseio.com",
+    "project_id": "mefbaze-8dee2",
+    "storage_bucket": "mefbaze-8dee2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243098941637:android:e4b05d6929165bae0598ac",
+        "android_client_info": {
+          "package_name": "com.dominikbat.mef_baze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243098941637-q3pjshftofo1se84ojp9r3gq34rsksho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dominikbat.mef_baze",
+            "certificate_hash": "5196336432e87d8c366e620f5ffc23551285ef0c"
+          }
+        },
+        {
+          "client_id": "243098941637-d2mua3e9oo6updt33c6530p7q8cki1b1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCol5gh42WhVrcRXPSI9ykZQTh2YeLTm7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243098941637-d2mua3e9oo6updt33c6530p7q8cki1b1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
