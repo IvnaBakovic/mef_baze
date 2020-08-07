@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:mef_baze/screens/add_question.dart';
 import 'package:mef_baze/screens/login_screen.dart';
 import 'package:mef_baze/screens/registration_screen.dart';
+import 'package:mef_baze/screens/results_screen.dart';
+import 'package:mef_baze/screens/statistics_screen.dart';
 import 'package:mef_baze/screens/subjects1.dart';
 import 'package:mef_baze/screens/subjects2.dart';
 import 'package:mef_baze/screens/subjects3.dart';
@@ -34,6 +37,9 @@ class MyApp extends StatelessWidget {
         SubjectsScreen4.id: (context) => SubjectsScreen4(),
         SubjectsScreen5.id: (context) => SubjectsScreen5(),
         SubjectsScreen6.id: (context) => SubjectsScreen6(),
+        ResultsScreen.id: (context) => ResultsScreen(),
+        StatisticsScreen.id: (context) => StatisticsScreen(),
+        AddQuestionScreen.id: (context) => AddQuestionScreen(),
       },
     );
   }
